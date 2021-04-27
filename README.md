@@ -1,4 +1,5 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
+### Hi there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
+I am Jeremy Marx and I'm a junior JavaScript Developer, looking to land my first tech job.
 
 <!--
 **jeremydmarx813/jeremydmarx813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
