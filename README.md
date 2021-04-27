@@ -1,5 +1,5 @@
 ### Hi there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
-I am Jeremy Marx and I'm a junior JavaScript Developer, looking to land my first tech job.
+I am Jeremy Marx and I'm a junior JavaScript Developer, looking to land my first tech job.  I have completed the curriculum of Web Development on Codecademy, gone through the bootcamp phase of the program at Operation Spark, and recently completed the JavaScript App Development course at Tech Talent South.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/jeremydmarx?label=Follow%20me%20on%20Twitter&style=social)
 
